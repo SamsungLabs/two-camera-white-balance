@@ -1,7 +1,7 @@
 # two-camera-white-balance
 Code and data for the paper: 
 
-[Leveraging the Availability of Two Cameras for Illuminant Estimation](https://openaccess.thecvf.com/content/CVPR2021/html/Abdelhamed_Leveraging_the_Availability_of_Two_Cameras_for_Illuminant_Estimation_CVPR_2021_paper.html)
+[Leveraging the Availability of Two Cameras for Illuminant Estimation](https://openaccess.thecvf.com/content/CVPR2021/html/Abdelhamed_Leveraging_the_Availability_of_Two_Cameras_for_Illuminant_Estimation_CVPR_2021_paper.html), CVPR 2021
 
 Abdelrahman Abdelhamed, Abhijith Punnappurath, Michael S. Brown
 
@@ -9,7 +9,11 @@ Samsung Artificial Intelligence Center, Toronto, Canada
 
 ## Goal
 
-Illuminant estimation using two cameras. More details in this [Samsung Research blog post](https://research.samsung.com/blog/Leveraging-the-Availability-of-Two-Cameras-for-Illuminant-Estimation).
+State-of-the-art illuminant estimation performance using two cameras. 
+
+More details in this [Samsung Research blog post](https://research.samsung.com/blog/Leveraging-the-Availability-of-Two-Cameras-for-Illuminant-Estimation).
+
+[Presentation video at CVPR 2021](https://www.youtube.com/watch?v=Z9GQMzYdlb0)
 
 ![alt text](figures/fig-05-two-camera-illuminant-estimation.png)
 

@@ -1,0 +1,11 @@
+tensorflow==2.5
+opencv-python==4.4.0.42
+colour-demosaicing==0.1.5
+numpy
+scipy
+rawpy
+exifread
+matplotlib
+tqdm
+pillow
+pandas

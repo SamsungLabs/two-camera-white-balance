@@ -1,0 +1,1 @@
+sudo apt-get update; sudo apt-get install python3.7 python3-pip ffmpeg libsm6 libxext6 zip -y; python3.7 -m pip install virtualenv; python3.7 -m virtualenv tcwb-venv; source tcwb-venv/bin/activate; python -m pip install -r ./requirements.txt
